@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff1f3f" />
+      <stop offset="100%" stop-color="#12070f" />
+    </linearGradient>
+  </defs>
+  <rect width="620" height="520" rx="32" fill="url(#grad)" />
+  <rect x="90" y="110" width="440" height="260" rx="30" fill="rgba(255,255,255,0.12)" /><path d="M260 170l120 80-120 80z" fill="#ff1f3f" />
+  <text x="50%" y="90%" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-size="42" font-weight="700">AUDIO CORPORATIVO</text>
+</svg>
